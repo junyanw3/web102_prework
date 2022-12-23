@@ -34,7 +34,13 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A challenge I encountered while building the app was when I first forked
+the repo, it only contained the README.md file. When I was doing the challenges, 
+I was confused about when the challenge directions mentioned to look at the 
+index.html, style.css, index.js, and games.js. I could not find the files. I 
+looked at the Slack channel and saw that the missing files were not pushed into 
+the main branch. While scrolling the Slack channels, I saw some questions that 
+were answered by peers. 
 
 ## License
 
